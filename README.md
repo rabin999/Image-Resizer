@@ -1,1 +1,2 @@
 # ImageCropperPhp
+## User Documentation 
